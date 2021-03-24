@@ -1,0 +1,2 @@
+rm: cannot remove `runtime_oddeven_paralelo.txt': No such file or directory
+srun: error: Unable to create job step: Job/step already completing or completed
